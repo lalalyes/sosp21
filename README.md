@@ -17,3 +17,5 @@
 1. [When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone](http://www.lalalyes.cn/images/darc.pdf)
 
 2. [Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing](http://www.lalalyes.cn/images/Cuckoo%20Trie.pdf)
+
+3. [ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling]((http://www.lalalyes.cn/images/ghost.pdf)
