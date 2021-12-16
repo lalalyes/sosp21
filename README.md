@@ -18,4 +18,4 @@
 
 2. [Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing](http://www.lalalyes.cn/images/Cuckoo%20Trie.pdf)
 
-3. [ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling]((http://www.lalalyes.cn/images/ghost.pdf)
+3. [ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling](http://www.lalalyes.cn/images/ghost.pdf)
